@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanchit Sah</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **React, Tailwind, React Native**
+- 🌱 I’m currently learning **React, Tailwind, React Native, Next JS**
 
 - 💬 Ask me about **NodeJs, MongoDb**
 
