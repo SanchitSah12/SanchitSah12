@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanchit Sah</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=SanchitSah12)](https://github.com/ryo-ma/github-profile-trophy)
 - 🌱 I’m currently learning **React, Tailwind, React Native, Next JS**
 
 - 💬 Ask me about **NodeJs, MongoDb**
